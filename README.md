@@ -1,4 +1,4 @@
-# No Signal — Projeto FETEC
+# No Signal — Projeto FETECC
 
 > Jogo Sci-Fi Pixel Art Retro ambientado em solo marciano.
 
